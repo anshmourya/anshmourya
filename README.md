@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshmourya" alt="anshmourya" /></a> </p>
 
-- 🔭 I’m currently working on [Swing](https://swinggg.netlify.app/)
+- 🔭 I’m currently working on [Spine Health](https://github.com/anshmourya/spineHealth)
 
-- 🤝 I’m looking for help with [Swing - A food Webiste](https://swinggg.netlify.app/)
+- 🤝 I’m looking for help with [Swing - A food website](https://swinggg.netlify.app/)
 
 - 💬 Ask me about **react , tailwind , javascript**
 
