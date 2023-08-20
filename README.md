@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anshmourya657@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17GoquzKoKU-QC6yOGP58Mg4raTuM_x80/view?usp=drive_link](https://drive.google.com/file/d/17GoquzKoKU-QC6yOGP58Mg4raTuM_x80/view?usp=drive_link)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/17GoquzKoKU-QC6yOGP58Mg4raTuM_x80/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
