@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshmourya" alt="anshmourya" /></a> </p>
 
-- 💬 Ask me about **react, tailwind, javascript, typescript, next **
+- 💬 Ask me about **react, tailwind, javascript, typescript, next**
 
 - 📫 How to reach me **anshmourya657@gmail.com**
 
