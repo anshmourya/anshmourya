@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshmourya" alt="anshmourya" /></a> </p>
 
-- 🔭 I’m currently working on [Spine Health](https://github.com/anshmourya/spineHealth)
-
-- 🤝 I’m looking for help with [Swing - A food website](https://swinggg.netlify.app/)
-
-- 💬 Ask me about **react , tailwind , javascript**
+- 💬 Ask me about **react, tailwind, javascript, typescript, next **
 
 - 📫 How to reach me **anshmourya657@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/17GoquzKoKU-QC6yOGP58Mg4raTuM_x80/view?usp=drive_link)
+- 📄 Know about my experiences [my resume]([https://drive.google.com/file/d/17GoquzKoKU-QC6yOGP58Mg4raTuM_x80/view?usp=drive_link](https://drive.google.com/file/d/1JSXd1GzAmaDZ3k4ev2J3aZ65GJxqS7AY/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
