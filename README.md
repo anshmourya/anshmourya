@@ -10,7 +10,7 @@
 I am a passionate Frontend Developer and Software Engineer based in India, currently working at **Levitation Infotech**. With a strong foundation in **React**, **Next.js**, and **Tailwind CSS**, I love bringing designs to life with clean, scalable code. Beyond the frontend, I enjoy building backend tools using **Node.js**, **Puppeteer**, and integrating AI for smarter web experiences.
 
 * 🎓 Graduate in Computer Science
-* 💼 2+ years of professional experience at a company that values work-life balance
+* 💼 2+ years of professional experience
 * 💡 Enthusiast of AI-powered solutions and automated workflows
 
 ## 💻 Skills & Tools
