@@ -52,11 +52,11 @@ I am a passionate Frontend Developer and Software Engineer based in India, curre
 | **AI-Powered Code Explainer**       | A tool that generates human-readable explanations for code snippets using LLMs.                               | Node.js, Puppeteer, OpenAI API           | [Repo](https://github.com/anshmourya/code-explainer)  |
 | **Job Scraper & Tracker**           | Automated web scraper that fetches job listings and organizes applications.                                   | Puppeteer, Next.js, MongoDB              | [Repo](https://github.com/anshmourya/job-tracker)     |
 
-## 📖 Experience
+## 📖 Current Company
 
 ### Levitation Infotech
 
-**Software Developer** | Sep 2023 – Present
+**Software Developer** | Feb 2023 – Present
 
 * Developed responsive web applications with React and Tailwind CSS.
 * Integrated payment workflows and authentication using Razorpay and Clerk.
